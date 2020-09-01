@@ -1,0 +1,3 @@
+npx create-react-app my-app         // ezzel lehet uj rect appot kesziteni, olyan mint az ng create my-app, jo sokaig tart , rengeteg node_modult leszed
+
+react component, egy sima js file amiben a js, a html, es neha meg a css is van, ugye a test mar nincs mint angularnal...

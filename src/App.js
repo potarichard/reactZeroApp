@@ -1,6 +1,7 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+import TodoComp from './components/TodoComp';
 
 function App() {
   return (
@@ -19,6 +20,11 @@ function App() {
           Learn React
         </a>
       </header>
+
+      <div>
+        <TodoComp/>
+      </div>
+
     </div>
   );
 }
